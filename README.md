@@ -48,7 +48,7 @@ Tutorial for A Gentle Introduction to Threshold-Moving for Imbalanced Classifica
 
 ## Notebooks
 
-Machine Learning com Stacking Ensembles Home Prices [here](https://github.com/Data-Science-Python-Marcus-Mariano/Threshold-for-Classification/blob/master/HomePrices-Marcus_Mariano.ipynb)
+Machine Learning com Stacking Ensembles Home Prices [here](https://github.com/Data-Science-Python-Marcus-Mariano/Threshold-for-Classification/blob/master/Gentle_Threshold_Moving_for_Classification.ipynb)
 
 ---
 
